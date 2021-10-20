@@ -1,0 +1,29 @@
+{
+  "name": "chat-appliccation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15saipranav/chat-appliccation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15saipranav/chat-appliccation/issues"
+  },
+  "homepage": "https://github.com/15saipranav/chat-appliccation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mogodb": "^0.0.1-security",
+    "mongodb": "^4.1.2",
+    "mongoose": "^6.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

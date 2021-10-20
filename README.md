@@ -1,4 +1,4 @@
-# chat-appliccation
+# CRUD OPERATIONS WITH NODEJS MONGODB AND POSTMAN
 download the repo, 
 open the file location, 
 then run "npm install",
